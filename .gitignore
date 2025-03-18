@@ -9,3 +9,7 @@ data/*
 .jupyter
 .venv
 .vscode
+labs_/data/
+labs_/lightning_logs/
+labs_/cifar_net.pth
+labs_/computational_graph
